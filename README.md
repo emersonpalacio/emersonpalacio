@@ -6,7 +6,7 @@ I am a responsible person, .net developer, full stack nodejs, express fron end r
 
 I am a person who likes to work in a team, development preferred is full stack, .net and .net core
 
-Me gusta programar, ya que soy ingeniero electronico estoy incusionando en mnndo IOTE y machine learning con python
+I like to program, since I am an electronic engineer I am introducing in mnndo IOTE and machine learning with python
 
 Currently I work in web development, both in full stack with nodejs, express and react, as well as some .net and .net core projects. 😍🥰🧡
 
@@ -19,8 +19,8 @@ I would like to understand being a master in PID control, PD, predictive with ph
 
 ## Skills
 
-* 💻  C# | Python | Java
-* 🌐  HTML5 | CSS3
-* 🔧  Emacs <3
+* 💻  C# | Python | .net | .net core|
+* 🌐  HTML5 | CSS3 | nodejs | react
+* 🔧
 
 
